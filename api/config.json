@@ -1,0 +1,16 @@
+{
+  "apiName": "BrazilJSApi",
+  "apiDescription": "",
+  "api": {
+    "handler": "ApiBrazilJSLambda"
+  },
+  "headers": {
+      "Content-Type": "text/plain;charset=utf-8",
+      "X-Clacks-Overhead": "GNU Terry Pratchett"
+    },
+    "tags": [
+      {"key": "Key", "value": "Value"},
+      {"key": "Project", "value": "BrazilJS"},
+      {"key": "CreatedAt", "value": "2021-10"}
+    ]
+}

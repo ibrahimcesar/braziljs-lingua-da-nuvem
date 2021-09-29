@@ -1,0 +1,19 @@
+{
+  "name": "braziljs",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.83",
+    "@types/node": "^16.10.2",
+    "aws-sdk": "^2.996.0",
+    "esbuild": "^0.13.3",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.124.0",
+    "@aws-cdk/aws-lambda": "^1.124.0",
+    "@aws-cdk/core": "^1.124.0",
+    "aws-cdk": "^1.124.0"
+  }
+}

@@ -1,0 +1,1 @@
+export { handler as ApiBrazilJSLambda } from "./api";
