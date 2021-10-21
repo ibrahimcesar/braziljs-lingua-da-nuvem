@@ -2,6 +2,11 @@
 
 <div align="center">
   <img src="imagens/braziljs.png" alt="BrazilJS" title="Logo do BrazilJS" width="150">
+  
+  [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+
+    <p>Desenvolvido no 🇧🇷 <span role="img" aria-label="Flag for Brazil">Brasil</p>
+  
 </div>
 
 ⛅ 🏗️  ‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎API de demonstração de como TypeScript pode ser usado para criar infraestrutura como código.
@@ -30,3 +35,9 @@ Para começar a utilizar o CDK, será necessário instalar e fazer o `cdk bootst
 - [Repositório no GitHub](https://github.com/aws/aws-cdk)
 - [Documentação do CDK](https://docs.aws.amazon.com/cdk/api/latest/typescript/api/aws-cdk.html)
 - [CDK Patterns](https://cdkpatterns.com/)
+
+<div align="left">
+  
+  <span role="img" aria-label="Código Feliz">🦄 Tenham uma ótima codagem!</span>
+  
+</div>
