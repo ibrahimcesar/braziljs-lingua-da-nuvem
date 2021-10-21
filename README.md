@@ -5,7 +5,7 @@
   
   [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
-  <p>Desenvolvido no 🇧🇷 <span role="img" aria-label="Flag for Brazil">Brasil</p>
+  <p>Desenvolvido no 🇧🇷 <span role="img" aria-label="Flag for Brazil">‎‏‏‎Brasil</p>
   
 </div>
 
@@ -36,8 +36,8 @@ Para começar a utilizar o CDK, será necessário instalar e fazer o `cdk bootst
 - [Documentação do CDK](https://docs.aws.amazon.com/cdk/api/latest/typescript/api/aws-cdk.html)
 - [CDK Patterns](https://cdkpatterns.com/)
 
-<div align="left">
+<div align="right">
   
-  <span role="img" aria-label="Código Feliz">🦄 Tenham uma ótima codagem!</span>
+  <span role="img" aria-label="Código Feliz">🦄 ‎‏‏‎Tenham uma ótima codagem!</span>
   
 </div>
